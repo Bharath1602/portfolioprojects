@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.brand {
+    font-size: 30px;
+}
+.text{
+    font-size: 20px;
+}
+.img {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.hd {
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.p1 {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 100;
+    color: #ffffff;
+
+}
+
+.butn1 {
+    width: 115px;
+    height: 50px;
+    font-size: 28px;
+    font-weight: 900;
+    padding: 5px;
+    transition: 0.3s ease-in-out;
+}
+.butn1:hover{
+    color: #ffc107;
+    transform: scale(1.2);
+}
+
+
+.bannersection {
+    background-color: #191a1d;
+    height: 100vh;
+}
+
+.aboutmesection {
+    background-color: #323f4b;
+}
+
+.heading {
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.img1 {
+    width: 50%;
+    border-radius: 40px;
+
+}
+
+
+
+.skillsection {
+    background-color: #1f2933;
+}
+
+.card1 {
+    padding: 10px;
+    background-color: #323f4b;
+    border-radius: 20px;
+}
+
+.imgcard {
+    height: 60px;
+    width: 60px;
+    margin: 5px;
+}
+
+
+
+.projectsection {
+    background-color: #3e4c59;
+}
+
+.card2 {
+    background-color: #323f4b;
+    border-radius: 20px;
+}
+
+.proimg {
+    width: 100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+
+
+.experiencesection {
+    background-color: #1f2933;
+}
+
+
+.contactsection {
+    background-color: #3e4c59;
+}
+.contact-info {
+    font-size: 20px;
+}
+
+.social-icon {
+    margin: 0 15px;
+    color: #17a2b8;
+    transition: 0.3s ease-in-out;
+}
+
+.social-icon:hover {
+    color: #ffc107;
+    transform: scale(1.2);
+}
